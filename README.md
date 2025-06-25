@@ -53,4 +53,4 @@ After converting back into unsigned integer from double precision, the generated
 
 
 ## CONTRIBUTIONS:
-- Project is done under the guidence of Dr. Uwe Pruefert.
+- Project is done under the guidence of Dr. Uwe Pruefert
